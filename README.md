@@ -1,27 +1,25 @@
-# AngularMultipleApps
+# Angular Multiple Apps in One
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
-## Development server
+## Development Apps
+There are 4 different development apps in the project.
+- dev1
+- dev2
+- dev3
+- dev4
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Each app is different and can be serve & build as unique.
 
-## Code scaffolding
+## Serve & Build
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+For you to serve and/or build each app, edit package.json accordingly to your needs. <br> <br>
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+To serve or build: <br>
+`npm run serve-dev1` <br>
+`npm run build-dev1`
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+ReadMe file needs to be updated. I will do it when I have time. Meanwhile, try to understand the code from it's file 
+structure. It shouldn't be that hard. If you need any help, my email is eraytonyali@gmail.com
